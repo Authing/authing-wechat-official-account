@@ -1,0 +1,9 @@
+# compiled output
+/dist
+/output
+/node_modules
+node_modules
+
+# config
+!config.template.yaml
+config.yaml

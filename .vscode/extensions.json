@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint", // eslint
+    "editorconfig.editorconfig", // editor config
+    "esbenp.prettier-vscode", // prettier
+    "christian-kohler.path-intellisense", // path
+    "ms-vscode.vscode-typescript-tslint-plugin" // tslint
+  ]
+}
